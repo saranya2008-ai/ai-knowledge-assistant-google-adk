@@ -1,0 +1,4 @@
+.env
+.adk/session.db
+__pycache__/__init__.cpython-314.pyc
+__pycache__/agent.cpython-314.pyc
